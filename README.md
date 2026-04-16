@@ -9,3 +9,5 @@
 [E-commerce Data](https://github.com/digipodium/SMS_Advance_Excel_2026/raw/refs/heads/main/ecommerce_data.csv)
 # 
 [House Prices Data](https://github.com/digipodium/SMS_Advance_Excel_2026/raw/refs/heads/main/house_prices.xlsx)
+# 
+[Supermarket Sales](https://github.com/digipodium/SMS_Advance_Excel_2026/raw/refs/heads/main/Supermarket_Sales.xlsx)
